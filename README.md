@@ -6,6 +6,7 @@
 - [戦闘後の経験値の計算](docs/battle-experience.md)
 - [ふくふく超特急の出現率と条件](docs/fukufuku-express.md)
 - [戦闘後にともだちになる確率](docs/befriend-rate.md)
+- [えんえんトンネルの距離変化](docs/enen-tunnel-distance.md)
 
 ## ソース
 
