@@ -4,6 +4,7 @@
 
 - [信号を守る・無視することで起きる隠しイベント](docs/traffic-light-events.md)
 - [戦闘後の経験値の計算](docs/battle-experience.md)
+- [さすらい玉の出現率と効果](docs/wandering-orb.md)
 - [ふくふく超特急の出現率と条件](docs/fukufuku-express.md)
 - [戦闘後にともだちになる確率](docs/befriend-rate.md)
 - [えんえんトンネルの距離変化](docs/enen-tunnel-distance.md)
