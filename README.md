@@ -9,6 +9,7 @@
 - [戦闘後にともだちになる確率](docs/befriend-rate.md)
 - [えんえんトンネルの距離変化](docs/enen-tunnel-distance.md)
 - [非公式のQRコードが読み込める理由](docs/qr-code.md)
+- [鬼ガシャの報酬と鬼玉数の関係](docs/oni-gasha.md)
 
 ## ソース
 
