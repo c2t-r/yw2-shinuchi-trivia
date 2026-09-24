@@ -8,6 +8,7 @@
 - [ふくふく超特急の出現率と条件](docs/fukufuku-express.md)
 - [戦闘後にともだちになる確率](docs/befriend-rate.md)
 - [えんえんトンネルの距離変化](docs/enen-tunnel-distance.md)
+- [非公式のQRコードが読み込める理由](docs/qr-code.md)
 
 ## ソース
 
